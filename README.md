@@ -29,4 +29,6 @@ To run the application, you must install the following Python libraries:
 
 ```bash
 pip install customtkinter CTkTable pillow
-Don't forget to downloas the database database.sqlite from this link and put in the project folder:  https://www.kaggle.com/datasets/hugomathien/soccer
+```
+
+Don't forget to download the database database.sqlite from this link and put in the project folder:  https://www.kaggle.com/datasets/hugomathien/soccer
